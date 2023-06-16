@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data-Visualization
 
 Create a d3 dashboard to explain/visualize the data, it is up to you to decide which visualizations to use in your dashboard. The more visualizations the better
